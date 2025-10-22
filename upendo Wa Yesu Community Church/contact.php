@@ -19,7 +19,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
     
     // Email configuration
-    $to = "info@upendowayesuchurch.org"; // Replace with your actual email
+    $to = "info@kisubizabron@gmail.com"; // Replace with your actual email
     $subject = "New Message from Church Website - From: $name";
     $headers = "From: $email\r\n";
     $headers .= "Reply-To: $email\r\n";
